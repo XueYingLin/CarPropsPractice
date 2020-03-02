@@ -1,2 +1,0 @@
-# CarPropsPractice
-Created with CodeSandbox
